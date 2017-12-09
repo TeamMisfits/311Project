@@ -1,0 +1,33 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "AN[0]" LOC = N16;
+NET "AN[1]" LOC = N15;
+NET "AN[2]" LOC = P18;
+NET "AN[3]" LOC = P17;
+NET "ssd[0]" LOC = L14;
+NET "ssd[1]" LOC = N14;
+NET "ssd[2]" LOC = M14;
+NET "ssd[3]" LOC = U18;
+NET "ssd[4]" LOC = U17;
+NET "ssd[5]" LOC = T18;
+NET "ssd[6]" LOC = T17;
+NET "ssd[7]" LOC = M13;
+NET "switches[0]" LOC = T10;
+NET "switches[1]" LOC = T9;
+NET "switches[2]" LOC = V9;
+NET "switches[3]" LOC = M8;
+NET "clk" LOC = V10;
+NET "reset" LOC = A8;
+NET "enter" CLOCK_DEDICATED_ROUTE = false;
+NET "enter" LOC = B8;
+NET "clear" LOC = C9;
+NET "change" LOC = D9;
+NET "led[0]" LOC = U16;
+NET "led[1]" LOC = V16;
+NET "led[2]" LOC = U15;
+NET "led[3]" LOC = V15;
+NET "led[4]" LOC = M11;
+NET "led[5]" LOC = N11;
+NET "led[6]" LOC = R11;
+NET "led[7]" LOC = T11;
